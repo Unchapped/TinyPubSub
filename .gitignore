@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# Local notes and such.
+local
+
+# Workspace files
+*.sublime-workspace
